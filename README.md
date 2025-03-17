@@ -5,7 +5,7 @@
 | 권혁준 | 조민경 | 박서정 |
 |------|------|------|
 |[<img src="https://github.com/Hyoek-Jun-Kwon.png" width="200">](https://github.com/Hyoek-Jun-Kwon) | [<img src="https://github.com/cho58.png" width="200">](https://github.com/cho58) | [<img src="https://github.com/Imggaggu.png" width="200" height="200">](https://github.com/Imggaggu) |
-|header, footer, page1 구현| page 4,5 구현| page 2,3 구현 |
+|page 4,5 구현| header, footer, page1 구현 | page 2,3 구현 |
 
 
 🦁 **담당운영진:** 장지호 김태형
