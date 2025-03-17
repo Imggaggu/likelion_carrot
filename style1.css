@@ -1,0 +1,112 @@
+@font-face {
+  font-family: "Gilroy-Bold";
+  font-display: swap;
+  src: url(https://d1unjqcospf8gs.cloudfront.net/assets/Gilroy-Bold-76f01426d347c0a032cb7669f76f457dfe153f125b58f0ab76a71693796c6918.woff);
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+html {
+  min-width: 980px;
+  height: 100%;
+  font-size: 62.5%;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  min-height: calc(100% - 77px);
+  position: relative;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+}
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  unicode-bidi: isolate;
+}
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+
+#fourth_hj {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.fourthimg_hj {
+  width: 655px;
+  height: 750px;
+}
+
+.service_title_hj {
+  color: #ff6f0f;
+  font-size: 18px;
+  font-weight: 800;
+  margin: 0;
+}
+
+.main_title_hj {
+  color: #000;
+  font-size: 40px;
+  line-height: 55px;
+  margin: 10px 0;
+}
+
+.service_comment_hj {
+  color: #7c7c7c;
+  font-size: 20px;
+  line-height: 30px;
+  margin: 0;
+}
+
+.button_hj {
+  margin-top: 30px;
+}
+
+.button_main_hj {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 700;
+  background-color: #e9ecef;
+  border-radius: 6px;
+  padding: 12px;
+  display: inline-block;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.button_main_hj:hover {
+  background-color: gainsboro;
+}
+
+#fifth_hj {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.fifthimg_hj {
+  width: 655px;
+  height: 750px;
+}
