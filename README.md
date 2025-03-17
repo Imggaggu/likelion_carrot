@@ -4,9 +4,22 @@
 ## 📌 Team 2 
 | 권혁준 | 조민경 | 박서정 |
 |------|------|------|
-|[<img src="https://github.com/Hyoek-Jun-Kwon.png" width="70">](https://github.com/Hyoek-Jun-Kwon) | [<img src="https://github.com/cho58.png" width="70">](https://github.com/cho58) | [<img src="https://github.com/Imggaggu.png" width="70">](https://github.com/Imggaggu) |
+|[<img src="https://github.com/Hyoek-Jun-Kwon.png" width="200">](https://github.com/Hyoek-Jun-Kwon) | [<img src="https://github.com/cho58.png" width="200">](https://github.com/cho58) | [<img src="https://github.com/Imggaggu.png" width="200" height="200">](https://github.com/Imggaggu) |
+|header, footer, page1 구현| page 4,5 구현| page 2,3 구현 |
+
+
+🦁 **담당운영진:** 장지호 김태형
+
 
 ---
+## 📌 구현 결과물
+| 영역 | 구현 | 담당자 |
+|------|------|------|
+|page2| ![image](https://github.com/user-attachments/assets/76912eb0-eacf-4c63-8181-b99702847024)| 박서정 |
+|page3| ![image](https://github.com/user-attachments/assets/7bde80fe-df3f-4b07-803b-94ac7ea0eaf8)| 박서정 |
+
+
+
 
 ## 📌 Git 커밋 메시지 컨벤션
 
