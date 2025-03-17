@@ -15,8 +15,13 @@
 ## 📌 구현 결과물
 | 영역 | 구현 | 담당자 |
 |------|------|------|
+|header| ![header](https://github.com/user-attachments/assets/fbab9a3e-09fc-44cd-befc-5802a6c4bad5) | 조민경 |
+|page1| ![page1](https://github.com/user-attachments/assets/31a467e0-9965-49c6-b924-24343799d8bb) | 조민경 |
 |page2| ![image](https://github.com/user-attachments/assets/76912eb0-eacf-4c63-8181-b99702847024)| 박서정 |
 |page3| ![image](https://github.com/user-attachments/assets/7bde80fe-df3f-4b07-803b-94ac7ea0eaf8)| 박서정 |
+|page4| ![page4](https://github.com/user-attachments/assets/c4f36191-be99-45a6-9bfd-f141c86adee1) | 권혁준 |
+|page5| ![page5](https://github.com/user-attachments/assets/6f01efff-3801-4f1c-904e-b5d1f6384da8) | 권혁준 |
+|footer| ![image](https://github.com/user-attachments/assets/fa7e32c3-7b96-47a4-a14b-511c39e7405b) | 조민경 |
 
 
 
